@@ -5,3 +5,5 @@ xhofe/alist:latest
 foxcpp/maddy:0.6
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+ghcr.io/postalserver/postal:3.3.4
