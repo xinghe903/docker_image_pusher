@@ -8,3 +8,4 @@ foxcpp/maddy:0.6
 
 ghcr.io/postalserver/postal:3.3.4
 ghcr.io/docker-mailserver/docker-mailserver:latest
+ghcr.io/open-webui/open-webui:main
