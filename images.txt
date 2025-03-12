@@ -11,3 +11,8 @@ ghcr.io/docker-mailserver/docker-mailserver:latest
 ghcr.io/open-webui/open-webui:main
 ollama/ollama:0.5.13
 ubuntu:24.04
+prom/prometheus:v3.2.1
+prom/alertmanager:v0.28.1
+prom/mysqld-exporter:v0.17.2
+prom/node-exporter:v1.8.2
+grafana/grafana:11.5.2
