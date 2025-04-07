@@ -1,20 +1,20 @@
 #nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-foxcpp/maddy:0.6
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
+# foxcpp/maddy:0.6
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
 
-ghcr.io/postalserver/postal:3.3.4
-ghcr.io/docker-mailserver/docker-mailserver:latest
-ghcr.io/open-webui/open-webui:main
-ollama/ollama:0.5.13
-ubuntu:24.04
-prom/prometheus:v3.2.1
-prom/alertmanager:v0.28.1
-prom/mysqld-exporter:v0.17.2
-prom/node-exporter:v1.8.2
-grafana/grafana:11.5.2
-jimmidyson/configmap-reload:v0.9.0
-ubuntu:22.04
+# ghcr.io/postalserver/postal:3.3.4
+# ghcr.io/docker-mailserver/docker-mailserver:latest
+# ghcr.io/open-webui/open-webui:main
+# ollama/ollama:0.5.13
+# ubuntu:24.04
+# prom/prometheus:v3.2.1
+# prom/alertmanager:v0.28.1
+# prom/mysqld-exporter:v0.17.2
+# prom/node-exporter:v1.8.2
+# grafana/grafana:11.5.2
+# jimmidyson/configmap-reload:v0.9.0
+# ubuntu:22.04
