@@ -19,4 +19,5 @@
 # jimmidyson/configmap-reload:v0.9.0
 # ubuntu:22.04
 # nginx:1.18.0
-quay.io/prometheuscommunity/elasticsearch-exporter:latest
+# quay.io/prometheuscommunity/elasticsearch-exporter:latest
+quay.io/prometheus/alertmanager:v0.28.0
