@@ -82,7 +82,10 @@
 
 # quay.io/tigera/operator:v1.32.10
 
-docker.io/calico/cni:v3.27.5
-docker.io/calico/node:v3.27.5
-docker.io/calico/kube-controllers:v3.27.5
+# docker.io/calico/cni:v3.27.5
+# docker.io/calico/node:v3.27.5
+# docker.io/calico/kube-controllers:v3.27.5
+
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
 
