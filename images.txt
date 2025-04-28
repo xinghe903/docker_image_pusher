@@ -86,6 +86,9 @@
 # docker.io/calico/node:v3.27.5
 # docker.io/calico/kube-controllers:v3.27.5
 
-kubernetesui/dashboard:v2.7.0
-kubernetesui/metrics-scraper:v1.0.8
+# kubernetesui/dashboard:v2.7.0
+# kubernetesui/metrics-scraper:v1.0.8
+
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.10.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.10.0
 
