@@ -90,6 +90,6 @@
 # kubernetesui/metrics-scraper:v1.0.8
 
 # registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.10.0
-
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
+# registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.12.0
 
