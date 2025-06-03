@@ -102,5 +102,5 @@ quay.io/jetstack/cert-manager-startupapicheck:v1.16.5
 
 rancher/mirrored-bci-micro:15.6.24.2
 rancher/shell:v0.4.1
-rancher/rancher:v2.10.6
+rancher/rancher:v2.7.5
 
