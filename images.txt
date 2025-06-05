@@ -94,13 +94,16 @@
 # registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.12.0
 # registry.k8s.io/metrics-server/metrics-server:v0.7.2
 
-quay.io/jetstack/cert-manager-controller:v1.16.5
-quay.io/jetstack/cert-manager-webhook:v1.16.5
-quay.io/jetstack/cert-manager-cainjector:v1.16.5
-quay.io/jetstack/cert-manager-acmesolver:v1.16.5
-quay.io/jetstack/cert-manager-startupapicheck:v1.16.5
+# quay.io/jetstack/cert-manager-controller:v1.16.5
+# quay.io/jetstack/cert-manager-webhook:v1.16.5
+# quay.io/jetstack/cert-manager-cainjector:v1.16.5
+# quay.io/jetstack/cert-manager-acmesolver:v1.16.5
+# quay.io/jetstack/cert-manager-startupapicheck:v1.16.5
 
-rancher/mirrored-bci-micro:15.6.24.2
-rancher/shell:v0.4.1
-rancher/rancher:v2.11-head
+# rancher/mirrored-bci-micro:15.6.24.2
+# rancher/shell:v0.4.1
+# rancher/rancher:v2.11-head
+
+jaegertracing/jaeger:2.6.0
+
 
