@@ -104,6 +104,8 @@
 # rancher/shell:v0.4.1
 # rancher/rancher:v2.11-head
 
-jaegertracing/jaeger:2.6.0
+# jaegertracing/jaeger:2.6.0
+
+docker.n8n.io/n8nio/n8n
 
 
