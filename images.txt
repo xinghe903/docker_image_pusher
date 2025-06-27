@@ -108,6 +108,9 @@
 
 # docker.n8n.io/n8nio/n8n
 
-jenkins/jenkins:lts
+# jenkins/jenkins:lts
+
+nvcr.io/nvidia/k8s-device-plugin
+registry.k8s.io/nfd/node-feature-discovery
 
 
