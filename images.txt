@@ -110,7 +110,8 @@
 
 # jenkins/jenkins:lts
 
-nvcr.io/nvidia/k8s-device-plugin:v0.17.2
+# nvcr.io/nvidia/k8s-device-plugin:v0.17.2
 # registry.k8s.io/nfd/node-feature-discovery
+ubuntu:22.04
 
 
