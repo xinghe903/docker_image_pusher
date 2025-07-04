@@ -112,6 +112,7 @@
 
 # nvcr.io/nvidia/k8s-device-plugin:v0.17.2
 # registry.k8s.io/nfd/node-feature-discovery
-ubuntu:22.04
+# ubuntu:22.04
+jenkins/inbound-agent:3309.v27b_9314fd1a_4-1
 
 
