@@ -120,7 +120,20 @@
 # minio/minio:RELEASE.2024-05-28T17-19-04Z
 # quay.io/coreos/etcd:v3.5.18
 
-bitnami/zookeeper:3.8.4-debian-12-r0
-bitnami/kafka:3.7.0-debian-12-r0
+# bitnami/zookeeper:3.8.4-debian-12-r0
+# bitnami/kafka:3.7.0-debian-12-r0
+
+docker.io/langchain/langsmith-playground:0.11.4
+docker.io/langchain/langsmith-frontend:0.11.4
+docker.io/langchain/langsmith-ace-backend:0.11.4
+docker.io/langchain/langsmith-backend:0.11.4
+docker.io/langchain/langsmith-go-backend:0.11.4
+docker.io/langchain/langsmith-backend:0.11.4
+docker.io/postgres:14.7
+docker.io/redis:7
+docker.io/clickhouse/clickhouse-server:24.8
+docker.io/langchain/langsmith-backend:0.11.4
+docker.io/langchain/langsmith-backend:0.11.4
+
 
 
