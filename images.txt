@@ -135,5 +135,11 @@
 # docker.io/langchain/langsmith-backend:0.11.4
 # docker.io/langchain/langsmith-backend:0.11.4
 
-docker.io/library/python:3.11-slim
+# docker.io/library/python:3.11-slim
+
+nginx:1.25.2-alpine
+redis:7.0.12-alpine
+bitnami/kafka:3.5.1-debian-11-r0
+mysql:8.0.33
+
 
